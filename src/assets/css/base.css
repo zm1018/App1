@@ -1,0 +1,12 @@
+/* 这个文件里写所有tab-bar菜单项目要用的公共样式 */
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#app {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
